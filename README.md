@@ -1,6 +1,6 @@
 # RemotePShell
 
-C# console apllication that executes a remote powershell command to a target windows server.
+C# console application that executes a remote powershell command to a target windows server.
 
 Please note: this application is based on the most excellent Powershell.cs gist by mdhorda, link below for original script. 
 https://gist.github.com/mdhorda/70c012af0c793938ff1f
